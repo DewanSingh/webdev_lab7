@@ -3,7 +3,8 @@ h1 {
 }
 
 #planets {
-	
+	border-collapse: collapse
+	border: 2px dashed grey;
 }
 
 #planets td {
@@ -11,8 +12,6 @@ h1 {
 }
 
 #planets tr {
-	border: 2px dashed grey;
-	margin: 0 auto;
 }
 
 .names {
