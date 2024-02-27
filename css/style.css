@@ -9,6 +9,9 @@ table, td, th {
 
 #planets {
 	border-collapse: collapse;
+	margin-left: auto;
+ 	margin-right: auto;
+	
 }
 
 #planets td {
