@@ -3,9 +3,12 @@ h1 {
 	text-shadow: 0 0 3px #FF0000
 }
 
+table, td, th {
+	border: 2px dashed grey;
+}
+
 #planets {
 	border-collapse: collapse;
-	border: 2px dashed grey;
 }
 
 #planets td {
