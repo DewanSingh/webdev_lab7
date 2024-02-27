@@ -18,7 +18,7 @@ table, td, th {
 	text-align:center;
 }
 
-tr:first-child {
+tr > :first-child {
 	font-weight: bold;
 }
 
