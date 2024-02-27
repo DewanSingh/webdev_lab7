@@ -1,21 +1,27 @@
 h1 {
-	text-align:center
+	text-align:center;
 }
 
 #planets {
-
+	
 }
 
 #planets td {
-	text-align:center
+	text-align:center;
+}
+
+#planets tr {
+	border: 2px dashed grey;
+	margin: 0 auto;
 }
 
 .names {
-
+	color: purple
 }
 
 .pictures {
-
+	width:200px;
+	height: 200px;
 }
 
 .1fact {
