@@ -12,7 +12,8 @@ h1 {
 	text-align:center;
 }
 
-#planets tr {
+#planets tr:first-child {
+	font-weight: bold;
 }
 
 .names {
