@@ -15,7 +15,7 @@ table, td, th {
 	text-align:center;
 }
 
-#planets tr:first-child {
+tr:first-child {
 	font-weight: bold;
 }
 
