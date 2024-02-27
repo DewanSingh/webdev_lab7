@@ -1,13 +1,13 @@
 h1 {
-text-align:center
-}
-
-td {
-text-align:center
+	text-align:center
 }
 
 #planets {
 
+}
+
+#planets td {
+	text-align:center
 }
 
 .names {
