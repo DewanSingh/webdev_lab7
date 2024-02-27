@@ -4,7 +4,7 @@ h1 {
 }
 
 #planets {
-	border-collapse: collapse
+	border-collapse: collapse;
 	border: 2px dashed grey;
 }
 
